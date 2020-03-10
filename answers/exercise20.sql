@@ -1,0 +1,2 @@
+SHOW TABLES;
+TRUNCATE TABLE Students;

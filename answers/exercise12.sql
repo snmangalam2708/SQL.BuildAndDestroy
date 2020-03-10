@@ -1,0 +1,5 @@
+SHOW TABLES;
+SELECT City
+FROM Students
+ORDER BY
+City DESC;
